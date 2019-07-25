@@ -127,7 +127,8 @@ module.exports = {
         "include",
         "content",
         "rules",
-        "each"
+        "each",
+        "for"
       ]
     }],
     "at-rule-no-vendor-prefix": true,
